@@ -6,7 +6,7 @@ It does one thing well:
 
 **open a file instantly and let you edit it without getting in your way.**
 
-The entire binary is around **50 KB**, yet lume includes:
+The entire binary is around **54.5 KB**, yet lume includes:
 
 - C/C++ syntax highlighting  
 - Real tab support with proper visual expansion  
