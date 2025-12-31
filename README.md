@@ -93,9 +93,12 @@ You will need:
 g++ (min version 17)
 ncurses
 
-After you made sure the required things are instlled you simply run the setup script
+After you made sure the required things are instlled you simply run the setup script (Work in Progress)
 
-
+recommenden compile command for best performance and light weight binary
+```
+g++ -O3 -march=native -mtune=native -fno-exceptions -fno-rtti -fno-unwind-tables -fno-asynchronous-unwind-tables -fdata-sections -ffunction-sections -WL,--gc-sections -s main_Lume.cpp -lncurses -o Lume
+```
 
 
 
