@@ -57,6 +57,8 @@ editor doesn’t need to be big to be capable.
 - **Fast screen rendering** using ncurses  
 - **Tiny binary** (~50 KB with optimizations)  
 
+
+More Features will be added and can be changed in the config file
 ---
 
 ## Usage
@@ -86,6 +88,8 @@ Jump Words:
 Ctrl LeftArrow for moving left
 Ctrl RightArrow for moving right
 ```
+
+More Features will be added and can be changed in the config file
 
 ## Building
 
@@ -130,3 +134,6 @@ core experience without adding bloat.
 
 ## License
 
+Distributed under the [GPL-3.0 License](./LICENSE).
+
+---
